@@ -1,0 +1,5 @@
+.git
+.idea
+go.mod
+go.sum
+src
